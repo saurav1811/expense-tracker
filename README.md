@@ -1,2 +1,2 @@
 # expense-tracker
-App for tracking and managing expenses
+App for tracking and managing expenses.
